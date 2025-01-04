@@ -57,7 +57,7 @@ This project focuses on analyzing restaurant data and building interactive dashb
 ## Dashboards created for analysis using various tools
 
 ### Using Excel:
-![](Zomato_Analytics/Excel Dashboard.png)
+![](images/Excel Dashboard.png)
 
 ### Using Power BI:
-![](Zomato_Analytics/Power BI Dashboard.png)
+![](images/Power BI Dashboard.png)
