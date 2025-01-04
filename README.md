@@ -60,4 +60,4 @@ This project focuses on analyzing restaurant data and building interactive dashb
 ![Excel Dashboard](images/Excel_Dashboard.png)
 
 ### Using Power BI:
-![PowerBI Dashboard](images/Power_BI_Dashboard.png)
+![Power BI Dashboard](images/Power_BI_Dashboard.png)
