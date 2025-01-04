@@ -53,3 +53,11 @@ This project focuses on analyzing restaurant data and building interactive dashb
 - Distribution of restaurants based on price and ratings.  
 - Restaurant openings trend by year and quarter.  
 - City-wise and country-wise restaurant distribution.
+
+## Dashboards created for analysis using various tools
+
+### Using Excel:
+![](images/Excel Dashboard.png)
+
+### Using Power BI:
+![](images/Power BI Dashboard.png)
