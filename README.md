@@ -36,13 +36,13 @@ This project focuses on analyzing restaurant data and building interactive dashb
    - Developed KPIs for various metrics like restaurant openings, average ratings, and cost distribution.
 
 2. **Dashboards**:  
-   - Designed interactive dashboards in **Tableau** and **Power BI** to showcase the KPIs and insights.  
+   - Designed interactive dashboards in **Tableau**, **Excel** and **Power BI** to showcase the KPIs and insights.  
    
 ---
 
 ## Tools & Technologies  
 - **Tableau**: For interactive dashboards and visual analysis.  
-- **Power BI**: For data modeling and reporting.  
+- **Power BI**: For data preprocessing, dashboard creation, and calendar table creation.  
 - **Excel**: For data preprocessing and calendar table creation.  
 - **MySQL**: For querying and managing data.
 
@@ -53,11 +53,3 @@ This project focuses on analyzing restaurant data and building interactive dashb
 - Distribution of restaurants based on price and ratings.  
 - Restaurant openings trend by year and quarter.  
 - City-wise and country-wise restaurant distribution.
-
----
-
-## Repository Structure  
-- **/data**: Contains sample or anonymized data files.  
-- **/sql**: SQL scripts used for data extraction and transformation.  
-- **/dashboards**: Screenshots and reports from Tableau and Power BI dashboards.  
-- **/docs**: Project documentation, including methodology and insights.
