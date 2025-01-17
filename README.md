@@ -36,7 +36,7 @@ This project involves analyzing restaurant data using **Power BI** for visualiza
 
 ---
 
-## Dashboards created for analysis using various tools
+## Dashboard created for analysis
 
 ### Using Power BI:
 ![Power BI Dashboard](images/Powerbi_dashboard.png)
