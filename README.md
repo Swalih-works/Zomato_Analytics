@@ -40,5 +40,3 @@ This project involves analyzing restaurant data using **Power BI** for visualiza
 
 ### Using Power BI:
 ![Power BI Dashboard](images/Powerbi_dashboard.png)
-
-===
