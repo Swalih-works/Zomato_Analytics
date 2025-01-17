@@ -1,4 +1,3 @@
-# Zomato Analytics  
 
 This project involves analyzing restaurant data using **Power BI** for visualization and **MySQL** for managing employee-related data. The focus was on deriving actionable insights through data modeling, querying, and interactive dashboard creation.  
 
