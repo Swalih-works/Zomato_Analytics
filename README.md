@@ -40,3 +40,7 @@ This project involves analyzing restaurant data using **Power BI** for visualiza
 
 ### Using Power BI:
 ![Power BI Dashboard](images/Powerbi_dashboard.png)
+
+### SQL Programs:
+[Program_1](analysis_1.sql)
+[Program_2](analysis_2.sql)
